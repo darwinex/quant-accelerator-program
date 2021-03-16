@@ -3,7 +3,7 @@
 [Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge to allow potential researchers to gauge if they have the required skills to take part in the [apprenticeship program](https://hudsonthames.org/apprenticeship-program/).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/darwinex/quant-accelerator-program/master/Images/quantacc.JPG" height="350"><br>
+  <img src="https://raw.githubusercontent.com/darwinex/quant-accelerator-program/master/Images/quantacc.JPG" height="250"><br>
 </div>        
 
 ## Your Mission:
