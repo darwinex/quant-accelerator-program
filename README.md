@@ -1,6 +1,6 @@
 # Skill Set Challenge!
 
-[Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge to allow potential researchers to gauge if they have the required skills to take part in the [apprenticeship program](https://hudsonthames.org/apprenticeship-program/).
+[Darwinex and Hudson & Thames](https://discover.darwinex.com/en-gb/quant-accelerator-program-with-hudson-thames) has provided the following skillset challenge to allow potential quants to gauge if they have the required skills to take part in the The Quant Accelerator Program.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/darwinex/quant-accelerator-program/master/Images/quantacc.JPG" height="250"><br>
@@ -40,3 +40,22 @@ The one consistent theme between all of our top researchers is their ability to 
 * Your code for the implementation should be contained in a .py file that you import into your notebook. Please don't have large chunks of code in your notebook.
 * IDE Choice: Pycharm, NOT Spyder.
 * Save your data with your PR so that we can evaluate it.
+
+## About the Program
+Engineer DARWIN Index Funds using sophisticated portfolio management techniques and attract investor capital
+
+### Duration
+* 13 working days
+* 1-3: introductory on-boarding + training (3 working days)
+* 4-5: strategy ideation development (2 working days + weekend)
+* 6-13: strategy implementation
+* 3rd week Wednesday: Demo Day
+
+### Selection Process 
+* Max of 10 people per round
+* Demo Day and internals will be explained after selection process ends.
+
+### Requisites to apply
+* STEM background (or equivalent)
+* Pre-existing knowledge of Python
+* Proficiency in written and spoken English
